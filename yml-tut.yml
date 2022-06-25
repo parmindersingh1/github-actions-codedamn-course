@@ -1,0 +1,14 @@
+myapp:
+  service: test-yml
+  test: 'script1'
+  test2: "sdsadasdsd"
+  myArray:
+    - key1: value1
+      keyrandom: valuerandom
+    - key2: value2
+      keyrandom2: valuerandom2
+
+  service: |
+    sds sds dscsd sdcds
+    ds da adwa sddcsd
+    this is multiline text    
